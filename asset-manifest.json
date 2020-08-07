@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sandbox/static/css/main.75ab48dd.chunk.css",
-    "main.js": "/sandbox/static/js/main.95fc83d9.chunk.js",
-    "main.js.map": "/sandbox/static/js/main.95fc83d9.chunk.js.map",
+    "main.js": "/sandbox/static/js/main.bcd8af6c.chunk.js",
+    "main.js.map": "/sandbox/static/js/main.bcd8af6c.chunk.js.map",
     "runtime-main.js": "/sandbox/static/js/runtime-main.df87e661.js",
     "runtime-main.js.map": "/sandbox/static/js/runtime-main.df87e661.js.map",
     "static/js/2.bc688f0c.chunk.js": "/sandbox/static/js/2.bc688f0c.chunk.js",
     "static/js/2.bc688f0c.chunk.js.map": "/sandbox/static/js/2.bc688f0c.chunk.js.map",
     "index.html": "/sandbox/index.html",
-    "precache-manifest.b1d2b19b0a6a956a754d94fc3441c1d8.js": "/sandbox/precache-manifest.b1d2b19b0a6a956a754d94fc3441c1d8.js",
+    "precache-manifest.adebf6ef11bb3b80964d1b15467abe52.js": "/sandbox/precache-manifest.adebf6ef11bb3b80964d1b15467abe52.js",
     "service-worker.js": "/sandbox/service-worker.js",
     "static/css/main.75ab48dd.chunk.css.map": "/sandbox/static/css/main.75ab48dd.chunk.css.map",
     "static/js/2.bc688f0c.chunk.js.LICENSE.txt": "/sandbox/static/js/2.bc688f0c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.df87e661.js",
     "static/js/2.bc688f0c.chunk.js",
     "static/css/main.75ab48dd.chunk.css",
-    "static/js/main.95fc83d9.chunk.js"
+    "static/js/main.bcd8af6c.chunk.js"
   ]
 }
